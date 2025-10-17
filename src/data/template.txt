@@ -1,0 +1,32 @@
+
+
+████████╗███████╗██╗  ██╗████████╗     █████╗ ███╗   ██╗ █████╗ ██╗  ██╗   ██╗███████╗██╗███████╗
+╚══██╔══╝██╔════╝╚██╗██╔╝╚══██╔══╝    ██╔══██╗████╗  ██║██╔══██╗██║  ╚██╗ ██╔╝██╔════╝██║██╔════╝
+   ██║   █████╗   ╚███╔╝    ██║       ███████║██╔██╗ ██║███████║██║   ╚████╔╝ ███████╗██║███████╗
+   ██║   ██╔══╝   ██╔██╗    ██║       ██╔══██║██║╚██╗██║██╔══██║██║    ╚██╔╝  ╚════██║██║╚════██║
+   ██║   ███████╗██╔╝ ██╗   ██║       ██║  ██║██║ ╚████║██║  ██║███████╗██║   ███████║██║███████║
+   ╚═╝   ╚══════╝╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝   ╚══════╝╚═╝╚══════╝
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Text Analysis - Python Project
+A Python-based text analysis tool that processes large books or documents.
+The program supports exporting results to multiple file types (TXT,Json and XML)
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+File Selection - Select a .txt file from the input directory
+File name: {file_name}
+File path: {file_path}
+File Size (MB): {file_size}
+
+————————————————————————————————————————————————
+
+————————————— [ Basic Statistics ] —————————————
+
+Number of lines: {number_of_lines}
+Number of words: {number_of_words}
+Number of characters: {number_of_characters}
+Words per line: {words_per_line}
+Character per word: {character_per_word}

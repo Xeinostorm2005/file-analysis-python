@@ -1,0 +1,13 @@
+{
+    "file_name": "GostaBerlingsSaga",
+    "file_path": "./input/GostaBerlingsSaga.txt",
+    "file_size": 0.75,
+    "basic_statistics": {
+        "lines": 22333,
+        "words": 147944,
+        "characters": 746860,
+        "characters_without_spaces": 621249,
+        "words_per_line": 6.624457081448977,
+        "character_per_word": 5.048261504352999
+    }
+}
