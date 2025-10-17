@@ -19,7 +19,7 @@ The program supports exporting results to multiple file types (TXT,Json and XML)
 File Selection - Select a .txt file from the input directory
 File name: {file_name}
 File path: {file_path}
-File Size (MB): {file_size}
+File Size: {file_size} MB
 
 ————————————————————————————————————————————————
 

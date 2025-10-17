@@ -19,7 +19,7 @@ The program supports exporting results to multiple file types (TXT,Json and XML)
 File Selection - Select a .txt file from the input directory
 File name: GostaBerlingsSaga
 File path: ./input/GostaBerlingsSaga.txt
-File Size (MB): 0.75
+File Size: 0.75 MB
 
 ————————————————————————————————————————————————
 
@@ -28,5 +28,5 @@ File Size (MB): 0.75
 Number of lines: 22333
 Number of words: 147944
 Number of characters: 746860
-Words per line: 6.624457081448977
-Character per word: 5.048261504352999
+Words per line: 6.62
+Character per word: 5.05
